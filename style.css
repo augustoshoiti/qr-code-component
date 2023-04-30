@@ -20,7 +20,7 @@ body {
 .card {
     margin: 20px 0;
     width: 24em;
-    height: 36em;
+    height: auto;
     padding: 1.2em;
     border-radius: 16px;
     background-color: #fff;
